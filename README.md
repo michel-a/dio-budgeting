@@ -28,8 +28,8 @@ O sistema permite gerenciar transações financeiras por categoria tanto via req
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/michel-a/desafio-dio-budgeting.git
-   cd desafio-dio-budgeting
+   git clone https://github.com/michel-a/dio-budgeting.git
+   cd dio-budgeting
    ```
 
 2. **Configure a variável de ambiente com a sua chave da OpenAI:**
